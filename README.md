@@ -1,3 +1,3 @@
-# Homework assignment 8
+# Homework assignment 9
 
-### Catastrophic cancellations. Solving nonlinear equations.
+### Instability of algorithms. Solving nonlinear equations.
