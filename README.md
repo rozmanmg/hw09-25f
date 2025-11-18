@@ -1,3 +1,3 @@
 # Homework assignment 9
 
-### Instability of algorithms. Solving nonlinear equations.
+### Solving nonlinear equations. Monte Carlo methods
